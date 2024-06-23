@@ -1,4 +1,4 @@
-module github.com/neondatabase/go-chef
+module github.com/sharnoff/go-chef
 
 go 1.21.8
 
